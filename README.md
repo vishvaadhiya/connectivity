@@ -1,2 +1,2 @@
 # connectivity
- start the projectt
+ its all about crud operatio
